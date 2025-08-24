@@ -48,7 +48,7 @@ Provided actionable insights for restaurant owners & food delivery platforms.
 
 Clone the repository:
 
-git clone https://github.com/your-username/zomato-data-analysis.git
+git clone https://github.com/udaysinghal/zomato-data-analysis.git
 cd zomato-data-analysis
 
 
